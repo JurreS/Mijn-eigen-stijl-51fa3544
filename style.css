@@ -1,4 +1,15 @@
-h1 {
+div {
     color: red;
 }
-<link href="style.css" rel="stylesheet"?
+
+div{
+   font-size: 1.3em
+}
+
+b {
+    color: blue; 
+}
+
+b{
+    font-size: 2.1em
+}
